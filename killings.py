@@ -148,7 +148,7 @@ def process_row(pagename,row):
             value = date + ',' + state + ',' + city
         else:                         
             state = city_state[0]            
-            value = date + ','  + state
+            value = date + ','  + state + ','
 
         log(value)
         report += value + '\n'

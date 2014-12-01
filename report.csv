@@ -28,14 +28,14 @@
 2009-08-06,Washington,Lake Stevens
 2009-07-21,Georgia,Duluth
 2009-07-10,Washington,Spokane
-2009-07-10,California
+2009-07-10,California,
 2009-07-07,Washington,Bellevue
 2009-07-04,Washington,Woodinville
 2009-07-02,Colorado,Denver
 2009-07-02,Washington,Arlington
 2009-06-24,Georgia,Fort Oglethorpe
-2009-06-18,Florida
-2009-06-14,Florida
+2009-06-18,Florida,
+2009-06-14,Florida,
 2009-06-10,Washington,Everett
 2009-06-10,Colorado,Denver
 2009-06-08,Colorado,Pueblo
@@ -107,7 +107,7 @@
 2010-07-09,Colorado,Denver
 2010-07-08,Maine,Medway
 2010-07-07,Washington,Kent
-2010-07-05,Florida
+2010-07-05,Florida,
 2010-06-30,California,Yorba Linda
 2010-06-28,Colorado,Denver
 2010-06-15,Maine,Old Orchard Beach
@@ -115,10 +115,10 @@
 2010-06-01,California,Santa Rosa
 2010-05-27,Maryland,Baltimore
 2010-05-17,Georgia,East Dublin
-2010-05-16,Michigan
+2010-05-16,Michigan,
 2010-05-14,Washington,Tacoma
 2010-05-12,Oregon,Portland
-2010-05-03,Texas
+2010-05-03,Texas,
 2010-04-19,Georgia,Lawrenceville
 2010-04-14,Colorado,Denver
 2010-04-02,Georgia,Atlanta
@@ -126,7 +126,7 @@
 2010-03-26,Washington,Spokane
 2010-03-24,Maine,Biddeford
 2010-03-22,Georgia,Midway
-2010-03-11,Tennessee
+2010-03-11,Tennessee,
 2010-03-07,Maine,Portland
 2010-03-07,Georgia,Redan
 2010-02-28,Colorado,Grand Junction
@@ -137,7 +137,7 @@
 2010-02-08,Georgia,Stone Mountain
 2010-02-07,Michigan,Sandusky
 2010-01-19,Washington,Sedro
-2010-01-15,Tennessee
+2010-01-15,Tennessee,
 2010-01-15,Georgia,Valdosta
 2010-01-13,New Mexico,Albuquerque
 2010-01-01,Colorado,Fort Collins
