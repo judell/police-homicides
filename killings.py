@@ -179,8 +179,6 @@ for year in range(by_month_start, by_month_end + 1, 1):
 
 if len(states) is not len(_states):
     diff = set(states) - set(_states)
-    log( 'count of states: ' + len(states)
-    log( 'count of unrepresented states: ' + len(_states)        
     log( 'list of unrepresented states: ' + ','.join(list(diff)) )
 
 f = open('report.csv','w')

@@ -1,0 +1,1801 @@
+processing 2009
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_2009
+UTF-8
+2009-12-31,Washington,Bothell
+2009-12-21,Washington,Eatonville
+2009-12-19,Washington,Lacey
+2009-12-19,Washington,Des Moines
+2009-12-13,Colorado,Denver
+2009-12-07,California,Redding
+2009-12-01,Washington,Lakewood
+2009-11-17,Georgia,Augusta
+2009-11-14,Georgia,Macon
+2009-11-12,Georgia,Richmond County
+2009-11-06,Georgia,Arlington
+2009-11-03,Arkansas,Little Rock
+2009-11-01,Washington,Lake Stevens
+2009-10-28,Michigan,Dearborn
+2009-10-23,Georgia,Albany
+2009-10-19,Georgia,Austell
+2009-10-11,Georgia,Rincon
+2009-10-11,Georgia,Stockbridge
+2009-10-2,Minnesota,Elk River
+2009-09-19,Arizona,Phoenix
+2009-09-15,Washington,Richland
+2009-09-10,Washington,Seattle
+2009-09-10,Georgia,St Simons Island
+2009-09-04,Washington,Federal Wal
+2009-09-02,Georgia,Toccoa
+2009-08-15,Washington,Olympia
+2009-08-10,Colorado,Longmont
+2009-08-06,Washington,Lake Stevens
+2009-07-21,Georgia,Duluth
+2009-07-10,Washington,Spokane
+2009-07-10,California
+2009-07-07,Washington,Bellevue
+2009-07-04,Washington,Woodinville
+2009-07-02,Colorado,Denver
+2009-07-02,Washington,Arlington
+2009-06-24,Georgia,Fort Oglethorpe
+2009-06-18,Florida
+2009-06-14,Florida
+2009-06-10,Washington,Everett
+2009-06-10,Colorado,Denver
+2009-06-08,Colorado,Pueblo
+2009-05-30,Washington,Covington
+2009-05-29,Washington,Grante Falls
+2009-05-24,Colorado,Broomfield
+2009-05-06,Washington,Lakewood
+2009-04-30,California,Woodland
+2009-04-27,Georgia,Decatur
+2009-04-27,Washington,Parkland
+2009-04-20,Maine,Warren
+2009-04-17,Georgia,Roswell
+2009-04-10,California,Santa Ana
+2009-03-21,California,Oakland
+2009-03-17,Washington,Spokane
+2009-02-26,Colorado,Denver
+2009-02-07,Colorado,Florence
+2009-02-05,Florida,Jacksonville
+2009-02-05,Florida,Jacksonville
+2009-01-20,Georgia,Albany
+2009-01-14,Washington,Seattle
+2009-01-01,Washington,Seattle
+2009-01-01,California,Oakland
+processing 2010
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_2010
+UTF-8
+2010-12-30,Florida,Pembroke Pines
+2010-12-25,Utah,South Jordan
+2010-12-20,Georgia,Brunswick
+2010-12-17,Florida,Miami
+2010-12-12,California,Long Beach
+2010-12-12,Georgia,Mableton
+2010-12-11,California,Vallejo
+2010-12-10,Washington,Bremerton
+2010-12-08,Colorado,Fort Collins
+2010-12-04,Washington,Spokane
+2010-12-01,Tennessee,Memphis
+2010-11-28,California,Napa
+2010-11-24,Colorado,Evans
+2010-11-17,Idaho,Riggins
+2010-11-12,Washington,Spokane
+2010-10-30,Washington,Tacoma
+2010-10-29,Georgia,Athens
+2010-10-26,Washington,Longview
+2010-10-26,Washington,Bainbridge Island
+2010-10-24,Washington,Spokane
+2010-10-24,Georgia,DeKalb County
+2010-10-23,Colorado,Delta
+2010-10-17,New York,Thornwood
+2010-10-05,Arizona,Phoenix
+2010-09-18,Ohio,Cincinnati
+2010-09-11,Washington,Olalla
+2010-09-07,Washington,Vancouver
+2010-09-06,Georgia,Augusta
+2010-09-03,Washington,Tacoma
+2010-08-31,Washington,Federal Way
+2010-08-30,Washington,Seattle
+2010-08-27,Utah,Salt Lake City
+2010-08-25,Washington,Spokane Valley
+2010-08-20,Florida,Miami
+2010-08-16,Washington,Seattle
+2010-08-14,Florida,Miami
+2010-08-11,Florida,Miami
+2010-08-10,Colorado,Pueblo
+2010-08-12,Nevada,Las Vegas
+2010-08-06,Indiana,Indianapolis
+2010-08-01,Colorado,Denver
+2010-07-23,Washington,Silverdale
+2010-07-20,Colorado,Grand Junction
+2010-07-16,New Jersey,Newark
+2010-07-10,Nevada,Las Vegas
+2010-07-09,Colorado,Denver
+2010-07-08,Maine,Medway
+2010-07-07,Washington,Kent
+2010-07-05,Florida
+2010-06-30,California,Yorba Linda
+2010-06-28,Colorado,Denver
+2010-06-15,Maine,Old Orchard Beach
+2010-06-08,Washington,Sedro
+2010-06-01,California,Santa Rosa
+2010-05-27,Maryland,Baltimore
+2010-05-17,Georgia,East Dublin
+2010-05-16,Michigan
+2010-05-14,Washington,Tacoma
+2010-05-12,Oregon,Portland
+2010-05-03,Texas
+2010-04-19,Georgia,Lawrenceville
+2010-04-14,Colorado,Denver
+2010-04-02,Georgia,Atlanta
+2010-03-28,Georgia,Cartersville
+2010-03-26,Washington,Spokane
+2010-03-24,Maine,Biddeford
+2010-03-22,Georgia,Midway
+2010-03-11,Tennessee
+2010-03-07,Maine,Portland
+2010-03-07,Georgia,Redan
+2010-02-28,Colorado,Grand Junction
+2010-02-26,Washington,Tacoma
+2010-02-25,Arizona,Ash Fork
+2010-02-23,New York,Ithaca
+2010-02-10,Washington,Tacoma
+2010-02-08,Georgia,Stone Mountain
+2010-02-07,Michigan,Sandusky
+2010-01-19,Washington,Sedro
+2010-01-15,Tennessee
+2010-01-15,Georgia,Valdosta
+2010-01-13,New Mexico,Albuquerque
+2010-01-01,Colorado,Fort Collins
+processing 2011
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_2011
+UTF-8
+2011-12-31,New York,Seaford
+2011-12-25,Georgia,Marietta
+2011-12-20,Georgia,Buford
+2011-12-16,Louisiana,Shreveport
+2011-12-14,Georgia,Union City
+2011-12-12,Nevada,Las Vegas
+2011-12-08,Oklahoma,Oklahoma City
+2011-12-08,Washington,Suquamish
+2011-12-05,Texas,Dallas
+2011-12-03,California,Merced
+2011-11-28,Georgia,Atlanta
+2011-11-27,Washington,Tacoma
+2011-11-21,Nevada,Las Vegas
+2011-11-17,Georgia,East Point
+2011-11-19,New York,White Plains
+2011-11-19,Maine,Farmington
+2011-11-13,Washington,SeaTac
+2011-11-12,Washington,Colville
+2011-11-10,Georgia,Macon
+2011-11-05,Hawaii,Waikiki
+2011-10-31,California,Lakewood
+2011-10-30,Kansas,Wichita
+2011-10-28,Colorado,Greeley
+2011-10-25,Florida,Miami
+2011-10-24,California,Antioch
+2011-10-24,Washington,Royal City
+2011-10-23,Washington,Seattle
+2011-10-22,Washington,Tacoma
+2011-10-22,California,Downey
+2011-10-20,Maryland,Lexington Park
+2011-10-18,Colorado,Denver
+2011-10-17,Pennsylvania,Philadelphia
+2011-10-16,Texas,Cibolo
+2011-10-15,Arizona,Phoenix
+New Jersey (Mountain Lakes) not a state
+2011-10-15,Georgia,Atlanta
+2011-10-13,Michigan,Muskegon
+2011-10-12,Pennsylvania,Lower Burrell
+2011-10-12,Oregon,Myrtle Creek
+2011-10-11,Colorado,Golden
+2011-10-10,Florida,Miami
+2011-10-03,New York,New York
+2011-10-01,California,Fort Bragg
+2011-09-29,Colorado,Aurora
+Washington (Spokane) not a state
+2011-09-24,Maine,Farmingdale
+2011-09-24,Washington,Issaquah
+2011-09-22,New Jersey,New Brunswick
+2011-09-20,Georgia,Norcross
+2011-09-18,Georgia,Jefferson
+2011-09-17,Missouri,Ferguson
+2011-09-15,Washington,Fircrest
+2011-09-13,Colorado,Colorado Springs
+2011-09-11,Colorado,Pueblo
+2011-09-09,Nevada,Las Vegas
+2011-09-07,Georgia,Atlanta
+2011-09-06,New York,New York
+2011-09-06,Georgia,Columbus
+2011-09-05,Georgia,Moultrie
+2011-09-01,Georgia,Jackson
+2011-08-29,New York,Point Lookout
+2011-08-25,New York,Ithaca
+2011-08-12,Georgia,DeKalb County
+2011-08-11,Georgia,Conyers
+2011-08-10,Washington,Shoreline
+2011-08-10,Georgia,Atlanta
+2011-08-06,Colorado,Denver
+2011-08-03,Colorado,Colorado Springs
+2011-08-01,Oregon,Elgin
+2011-08-01,Ohio,Columbus
+2011-07-26,Colorado,Black Forest
+2011-07-24,Tennessee,Memphis
+2011-07-23,Colorado,Aurora
+2011-07-22,Georgia,Douglas County
+2011-07-21,Virginia,Centreville
+2011-07-21,Washington,Federal Way
+2011-07-20,Georgia,Marietta
+2011-07-18,Colorado,Denver
+2011-07-17,Illinois,Chicago
+2011-07-16,Illinois,Chicago
+2011-07-16,Washington,Lynnwood
+2011-07-16,California,San Francisco Bay View District
+2011-07-15,Georgia,Avondale
+2011-07-14,Nevada,Las Vegas
+2011-07-11,Georgia,Gainesville
+2011-07-10,Washington,Bothell
+2011-07-10,California,Bakersfield
+2011-07-05,California,Fullerton
+2011-07-04,Nevada,Las Vegas
+2011-06-30,Georgia,Atlanta
+2011-06-29,California,Suisun City
+2011-06-29,Washington,Clallam Bay
+2011-06-28,New Hampshire,Winchester
+2011-06-26,Tennessee,Memphis
+2011-06-25,Georgia,Jacksonville Beach
+2011-06-20,Washington,Napaville
+2011-06-15,Washington,Tacoma
+2011-06-08,California,Manteca
+2011-06-07,Illinois,Chicago
+2011-06-05,Washington,Richland
+2011-06-03,California,Galt
+2011-05-30,Texas,Austin
+2011-05-30,Florida,Miami Beach
+2011-05-27,Nevada,Las Vegas
+2011-05-27,Georgia,DeKalb
+2011-05-19,Georgia,Mableton
+2011-05-18,Georgia,Newton County
+2011-05-18,Washington,Selah
+2011-05-16,South Carolina,Cottageville
+2011-05-13,Florida,Miami
+2011-05-11,Illinois,Chicago
+2011-05-10,California,Los Angeles
+Lake Arrowhead California not a state
+2011-05-05,Arizona,Tucson
+2011-05-04,Washington,Kent
+2011-05-03,Georgia,Marietta
+2011-04-30,Washington,Sunnyside
+2011-04-23,Virginia,Portsmouth
+2011-04-18,Washington,Kent
+2011-04-18,Illinois,Chicago
+2011-04-18,Ohio,Cincinnati
+2011-04-16,Georgia,Morgan County
+2011-04-07,Maryland,Glenn Dale
+2011-04-06,Georgia,Norcross
+2011-04-03,Georgia,Fairburn
+2011-03-27,Maine,Kennebunk
+2011-03-20,Colorado,Aurora
+2011-03-19,Washington,Ravenswood
+2011-03-17,Colorado,Aurora
+2011-03-16,Idaho,Bonners Ferry
+2011-03-15,Colorado,Aurora
+2011-03-12,New York,Massapequa Park
+2011-03-12,New York,Massapequa Park
+2011-03-09,Georgia,Buckhead
+2011-03-08,Washington,Kelso
+2011-03-03,California,Escondido
+2011-02-28,Washington,Lynden
+2011-02-24,Colorado,Pueblo
+2011-02-19,Georgia,Avondale Estates
+2011-02-14,Tennessee,Mason
+2011-02-14,Washington,Lakewood
+2011-02-10,Colorado,Aurora
+2011-02-10,Georgia,Augusta
+2011-02-08,Georgia,Barnesville
+2011-02-08,Idaho,Kootenai
+2011-02-08,Washington,Lakewood
+2011-01-30,Washington,Spokane
+2011-01-30,Washington,Yakima
+2011-01-28,Washington,Tacoma
+2011-01-24,Florida,St. Petersburg
+2011-01-24,Georgia,Warner Robins
+2011-01-23,Tennessee,Memphis
+2011-01-22,Georgia,Decatur County
+2011-01-20,Florida,Miami-Dade County
+2011-01-16,Washington,Spokane
+2011-01-15,Maine,Lyman
+2011-01-14,California,Los Angeles
+2011-01-07,Illinois,Chicago
+2011-01-06,Washington,Bellevue
+2011-01-01,Florida,Miami
+processing January_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_January_2012
+UTF-8
+2012-01-31,Washington,Roy
+2012-01-30,New York,Brooklyn
+2012-01-29,West Virginia,Bluewell
+2012-01-28,Arizona,Scottsdale
+2012-01-27,Oregon,Fairview
+2012-01-27,California,Santa Maria
+2012-01-26,New York,Brooklyn
+2012-01-25,Oregon,Portland
+2012-01-24,Arizona,Chandler
+2012-01-24,Arizona,Mesa
+2012-01-23,Georgia,Stone Mountain
+2012-01-23,California,Monterey Park
+2012-01-22,Texas,Pleasant Grove
+2012-01-22,Oregon,Medford
+2012-01-19,California,Anaheim
+2012-01-16,New York,Nassau County
+2012-01-13,Washington,Federal Way
+2012-01-12,New York,Brooklyn
+2012-01-12,Florida,Hallandale Beach
+2012-01-12,Missouri,Raytown
+2012-01-09,Texas,Houston
+2012-01-09,Texas,San Antonio
+2012-01-07,California,Anaheim
+2012-01-07,California,Riverside
+2012-01-07,Colorado,Brighton
+2012-01-05,Oregon,Medford
+2012-01-04,California,Rosemead
+2012-01-04,Texas,Brownsville
+2012-01-01,Georgia,Atlanta
+Illionis not a state
+2012-01-01,Kansas,Kansas City
+processing February_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_February_2012
+UTF-8
+2012-02-29,California,San Bernardino
+2012-02-29,Tennessee,Claxton
+2012-02-29,Georgia,Jonesboro
+2012-02-24,Texas,Cedar Park
+2012-02-24,Texas,Dallas
+2012-02-23,Colorado,Englewood
+2012-02-21,California,Paramount
+2012-02-19,Florida,St. Petersburg
+2012-02-18,California,Riverside
+2012-02-18,Arizona,Mesa
+2012-02-16,California,Long Beach
+2012-02-15,Illinois,Waukegan
+2012-02-14,New York,New York
+2012-02-14,Arizona,Scottsdale
+2012-02-13,Texas,Pleasant Grove
+Illionis not a state
+2012-02-11,Georgia,Decatur
+2012-02-09,Virginia,Culpeper
+2012-02-08,New York,Long Island City
+2012-02-08,Washington,Poulsbo
+2012-02-07,California,Los Angeles
+2012-02-07,Arizona,Phoenix
+2012-02-02,New York,Bronx
+2012-02-01,Arizona,Lake Havasu City
+2012-02-01,Illinois,Calumet City
+2012-02-01,Nevada,Las Vegas
+processing March_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_March_2012
+UTF-8
+2012-03-29,Ohio,Chardon
+Washington DC not a state
+2012-03-27,Georgia,Atlanta
+2012-03-25,Illinois,Chicago
+2012-03-24,California,Pasadena
+2012-03-23,Massachusetts,Malden
+2012-03-22,California,Antioch
+2012-03-21,Illinois,Chicago
+2012-03-20,California,Hemet
+2012-03-20,Oklahoma,Tulsa
+2012-03-17,Virginia,Virginia Beach
+2012-03-16,California,Fortuna
+2012-03-15,California,Arnold
+Texas. not a state
+2012-03-14,Oklahoma,Del City
+2012-03-11,Oklahoma,Garvin
+2012-03-10,Kansas,Wichita
+2012-03-07,Texas,Dallas
+2012-03-06,California,Anaheim
+Brush Creek Township not a state
+2012-03-01,California,Riverside
+processing April_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_April_2012
+UTF-8
+2012-04-30,Vermont,Cambridge
+2012-04-30,Illinois,Chicago
+2012-04-29,Minnesota,Apple Valley
+2012-04-26,Georgia,Lawrenceville
+2012-04-24,Arizona,Phoenix
+2012-04-23,California,Fairfield
+2012-04-23,Mississippi,Booneville
+2012-04-22,Pennsylvania,Philadelphia
+2012-04-21,Nevada,Las Vegas
+2012-04-21,Georgia,Loganville
+2012-04-21,Arkansas,Alma
+2012-04-21,Oklahoma,Oklahoma City
+2012-04-21,Illinois,Calumet City
+2012-04-19,Nevada,Las Vegas
+2012-04-18,Texas,Houston
+2012-04-17,Texas,The Woodlands
+2012-04-17,New Hampshire,Keene
+2012-04-16,California,Keyes
+2012-04-14,Illinois,Dolton
+2012-04-13,Kansas,Wichita
+2012-04-13,Maryland,Gambrills
+2012-04-13,Texas,Dallas
+2012-04-12,New York,New York
+2012-04-12,Nevada,Las Vegas
+2012-04-12,New York,New York
+2012-04-12,Ohio,Brooklyn
+2012-04-12,Pennsylvania,Temple
+2012-04-11,California,Los Angeles
+2012-04-11,Texas,San Antonio
+2012-04-10,Texas,Burkeville
+2012-04-09,Maryland,Landover
+2012-04-08,California,Los Angeles
+2012-04-07,Massachusetts,Westfield
+2012-04-05,Texas,Austin
+2012-04-04,Nevada,Las Vegas
+2012-04-04,Illinois,Joliet
+2012-04-04,Texas,San Antonio
+2012-04-03,Oklahoma,Tulsa
+2012-04-02,Texas,Conroe
+2012-04-01,Kansas,Wichita
+processing May_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_May_2012
+UTF-8
+2012-05-31,Idaho,Boise
+2012-05-31,Minnesota,Brooklyn Center
+2012-05-31,Oregon,Yachats
+2012-05-28,California,Vallejo
+2012-05-27,Texas,Dallas
+2012-05-27,New York,Buffalo
+2012-05-26,Missouri,Kansas City
+2012-05-26,Florida,Miami
+2012-05-24,California,Vallejo
+2012-05-24,Montana,Billings
+2012-05-22,Hawaii,Kihei
+2012-05-22,Texas,Dallas
+2012-05-20,California,Oceanside
+2012-05-19,Virginia,Springfield
+2012-05-19,Maryland,Baltimore
+2012-05-18,Nevada,Reno
+2012-05-18,Pennsylvania,Upper Dublin
+2012-05-18,Texas,Houston
+2012-05-17,Florida,Miami
+2012-05-17,Massachusetts,New Bedford
+2012-05-15,Georgia,Atlanta
+Washington DC not a state
+2012-05-14,Oklahoma,Lawton
+2012-05-13,Illinois,Des Plaines
+2012-05-12,Texas,El Paso
+2012-05-12,Florida,Miami
+2012-05-10,New York,Oakland Gardens
+2012-05-10,Pennsylvania,Philadelphia
+2012-05-10,Delaware,Newark
+2012-05-09,California,San Francisco
+2012-05-09,Arizona,Mesa
+2012-05-09,Florida,Jacksonville
+2012-05-08,Pennsylvania,Philadelphia
+2012-05-06,California,Oakland
+2012-05-04,Texas,San Antonio
+2012-05-03,New York,Brooklyn
+2012-05-02,Rhode Island,Pawtucket
+2012-05-01,Arizona,Mesa
+2012-05-01,Georgia,Woodstock
+processing June_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_June_2012
+UTF-8
+2012-06-30,Missouri,Marionville
+2012-06-30,California,Vallejo
+2012-06-29,North Carolina,Roanoke
+2012-06-29,Colorado,Greenley
+2012-06-28,Oklahoma,Clinton
+2012-06-28,Arizona,Tucson
+2012-06-28,California,Antioch
+2012-06-28,Colorado,Broomfield
+2012-06-28,Texas,Cedar Park
+2012-06-28,Alabama,Dothan
+2012-06-28,California,Santa Maria
+2012-06-27,Georgia,Atlanta
+2012-06-27,Georgia,Bonanza
+2012-06-27,Tennessee,Memphis
+2012-06-26,Texas,Lubbock
+2012-06-26,Texas,Fort Worth
+2012-06-26,Georgia,Port Wentworth
+2012-06-25,California,Indio
+2012-06-25,Pennsylvania,Johnstown
+2012-06-24,Illinois,Riverdale
+2012-06-24,Florida,Gainesville
+2012-06-24,Texas,Dallas
+2012-06-23,Tennessee,Maury City
+2012-06-23,California,Oxnard
+2012-06-23,Kentucky,Elsmere
+2012-06-22,California,Redding
+2012-06-22,Wisconsin,Hurley
+2012-06-22,South Carolina,Mullins
+2012-06-21,New York,Rochester
+D.C. not a state
+2012-06-20,Vermont,Thetford
+2012-06-20,Georgia,Morrow
+2012-06-19,California,Fresno
+2012-06-19,California,Quincy
+2012-06-19,Oklahoma,Oklahoma City
+2012-06-18,Texas,Lubbock
+2012-06-17,Texas,Temple
+2012-06-17,Arizona,Apache Junction
+2012-06-16,Georgia,Morrow
+2012-06-15,Texas,El Paso
+2012-06-15,California,North Hollywood
+2012-06-15,California,Sanger
+2012-06-14,California,North Hollywood
+2012-06-14,New York,Brooklyn
+2012-06-14,Pennsylvania,Philadelphia
+2012-06-13,Maryland,Randallstown
+2012-06-13,Illinois,Belleville
+2012-06-12,Florida,Boynton Beach
+2012-06-12,Tennessee,Memphis
+2012-06-12,Oregon,Eagle Point
+2012-06-10,Texas,Irving
+2012-06-09,Alaska,Anchorage
+2012-06-09,Pennsylvania,Sellersville
+2012-06-09,Texas,San Antonio
+2012-06-07,Washington,Spanaway
+2012-06-05,Texas,Arlington
+2012-06-05,California,San Francisco
+2012-06-04,Massachusetts,Springfield
+2012-06-04,Arizona,Phoenix
+2012-06-04,California,Lompoc
+2012-06-04,California,Mira Mesa
+2012-06-04,Florida,West Palm Beach
+2012-06-03,Oregon,Aloha
+2012-06-02,Texas,Dallas
+2012-06-01,Montana,Columbia Falls
+processing July_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_July_2012
+UTF-8
+2012-07-31,California,Hemet
+2012-07-31,Florida,Miami
+2012-07-31,Maryland,Baltimore
+2012-07-31,Colorado,Denver
+2012-07-31,California,Colton
+2012-07-31,Arizona,Phoenix
+2012-07-31,Texas,Houston
+2012-07-30,California,Santa Maria
+2012-07-30,Kentucky,Paris
+2012-07-30,Mississippi,Tupelo
+2012-07-29,Texas,Early
+2012-07-28,California,Santa Paula
+2012-07-28,Arizona,Glendale
+2012-07-28,Oregon,Portland
+2012-07-28,California,Turlock
+2012-07-27,Indiana,Lawrence
+2012-07-27,Texas,San Antonio
+2012-07-26,Ohio,Akron
+2012-07-25,Florida,Clearwater
+2012-07-25,California,Corona
+2012-07-25,Missouri,St. Louis
+2012-07-24,Texas,Dallas
+2012-07-23,North Carolina,Dobson
+2012-07-23,Florida,Westchester
+2012-07-23,Tennessee,Drummonds
+2012-07-23,Nevada,Henderson
+2012-07-23,Pennsylvania,Philadelphia
+2012-07-22,Texas,Mount Pleasant
+2012-07-22,California,Anaheim
+2012-07-22,Illinois,Franklin Park
+2012-07-22,Illinois,Westchester
+2012-07-22,Florida,Tampa
+2012-07-22,Massachusetts,Lynn
+2012-07-22,Missouri,Kansas City
+2012-07-22,California,Los Angeles
+2012-07-21,California,Anaheim
+2012-07-21,Georgia,Atlanta
+2012-07-21,Pennsylvania,Philadelphia
+2012-07-20,West Virginia,Ripley
+2012-07-19,California,Corona
+2012-07-18,Florida,Bradenton
+2012-07-18,California,San Francisco
+2012-07-17,Ohio,Columbus
+2012-07-16,Oklahoma,Tulsa
+2012-07-15,Ohio,Columbus
+2012-07-15,Florida,Miami
+2012-07-15,Florida,Leesburg
+2012-07-15,Pennsylvania,Philadelphia
+2012-07-14,Ohio,Columbus
+2012-07-14,Maryland,Baltimore
+2012-07-14,Colorado,Villa Grove
+2012-07-14,South Carolina,Sumter
+2012-07-13,Pennsylvania,Philadelphia
+2012-07-13,Georgia,Atlanta
+2012-07-12,Maryland,Reisterstown
+2012-07-12,Massachusetts,Worcester
+2012-07-12,Connecticut,Torrington
+2012-07-12,California,Modesto
+2012-07-11,California,San Bernardino
+2012-07-11,Connecticut,Hartford
+2012-07-10,Kansas,Wichita
+2012-07-10,Missouri,St. Louis
+2012-07-09,Texas,Houston
+2012-07-09,New Hampshire,Litchfield
+2012-07-08,Michigan,Detroit
+2012-07-08,Virginia,Mount Vernon
+2012-07-08,Minnesota,North Branch
+2012-07-08,Illinois,Chicago
+2012-07-08,Texas,Denton
+2012-07-08,California,El Cajon
+2012-07-07,West Virginia,Charleston
+2012-07-07,Montana,Plentywood
+2012-07-07,Oregon,Aloha
+2012-07-07,California,Sacramento
+Mexico not a state
+2012-07-06,Tennessee,Knoxville
+2012-07-06,Florida,Pensacola
+2012-07-05,Illinois,Cicero
+2012-07-05,South Carolina,Columbia
+2012-07-04,New York,New York
+2012-07-04,Arizona,Show Low
+2012-07-04,California,Turlock
+2012-07-04,California,Vallejo
+2012-07-04,Arizona,Tucson
+2012-07-04,Maryland,Sandy Spring
+2012-07-03,California,Orange Cove
+2012-07-02,North Carolina,Charlotte
+2012-07-02,California,Buellton
+2012-07-01,Michigan,Saginaw
+2012-07-01,California,Moreno Valley
+2012-07-01,Alaska,Anchorage
+2012-07-01,Maryland,Baltimore
+processing August_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_August_2012
+UTF-8
+2012-08-31,Texas,Mesquite
+2012-08-31,Washington,Tacoma
+2012-08-31,Minnesota,Woodbury
+2012-08-30,Missouri,St. Louis
+2012-08-30,South Carolina,Anderson
+2012-08-29,Missouri,St. Louis
+2012-08-29,California,Carson
+2012-08-29,Colorado,Pueblo
+2012-08-28,Colorado,Denver
+2012-08-28,Louisiana,Reserve
+2012-08-28,California,Bellflower
+2012-08-28,California,Bellflower
+2012-08-28,Florida,Marianna
+2012-08-28,West Virginia,Charleston
+2012-08-27,California,Antioch
+2012-08-27,California,Acampo
+2012-08-27,Pennsylvania,Philadelphia
+2012-08-25,Oklahoma,Seminole
+2012-08-24,North Carolina,Goldsboro
+2012-08-24,New York,New York
+Washington DC not a state
+2012-08-24,Arkansas,Sherwood
+2012-08-23,Georgia,Jonesboro
+2012-08-23,Pennsylvania,Philadelphia
+2012-08-22,Maryland,Centreville
+2012-08-22,Alabama,Brighton
+2012-08-21,Massachusetts,Boston
+2012-08-21,Florida,Pensacola
+2012-08-21,Florida,Lake City
+2012-08-20,Arizona,Tucson
+2012-08-20,Mississippi,Oktibbeha County
+2012-08-20,Tennessee,Chattanooga
+2012-08-20,California,Placentia
+2012-08-19,New Mexico,Clovis
+2012-08-18,Maryland,Baltimore
+2012-08-18,Louisiana,Shreveport
+2012-08-17,Kentucky,Frankfort
+2012-08-17,North Carolina,Winston
+2012-08-17,Ohio,Cincinnati
+2012-08-16,Iowa,Iowa City
+2012-08-15,Washington,Littlerock
+2012-08-14,California,Folsom
+2012-08-14,California,Oxnard
+2012-08-14,Oregon,Gladstone
+2012-08-14,California,Modesto
+2012-08-14,Florida,Miami
+2012-08-14,Texas,Alvin
+2012-08-13,South Carolina,Greenville
+2012-08-13,Alabama,Decatur
+2012-08-13,Texas,College Station
+2012-08-13,Georgia,Lula
+2012-08-13,California,Yucaipa
+2012-08-12,New York,New York
+2012-08-12,North Carolina,Smithfield
+2012-08-12,Kentucky,Bowling Green
+2012-08-12,Arkansas,Little Rock
+2012-08-12,Georgia,Decatur
+2012-08-11,Illinois,Maywood
+2012-08-11,New York,New York City
+2012-08-11,Louisiana,Tangipahoa
+2012-08-10,Arkansas,Little Rock
+2012-08-10,Wisconsin,Appleton
+2012-08-10,Arizona,Tucson
+2012-08-09,Illinois,Chicago
+2012-08-09,Delaware,New Castle
+2012-08-09,Maryland,Columbia
+2012-08-09,Pennsylvania,Philadelphia
+2012-08-09,Florida,Homestead
+2012-08-09,California,Vacaville
+2012-08-09,Pennsylvania,Harrisburg
+2012-08-08,Louisiana,Shreveport
+2012-08-08,California,San Bernardino
+2012-08-08,Florida,Fort Myers
+2012-08-08,California,Long Beach
+2012-08-08,Florida,Miami
+2012-08-07,Louisiana,Lafayette
+2012-08-07,Texas,Houston
+2012-08-05,North Carolina,Catawba
+2012-08-05,California,Brawley
+2012-08-05,Ohio,Columbus
+2012-08-04,Alabama,Madison
+2012-08-04,Georgia,Fayetteville
+2012-08-03,Alaska,Anchorage
+2012-08-03,Ohio,Green Township
+2012-08-02,Nevada,Las Vegas
+2012-08-02,California,Santa Maria
+2012-08-02,California,Fair Oaks
+2012-08-01,Oklahoma,Morris
+2012-08-01,New York,Buffalo
+processing September_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_September_2012
+UTF-8
+2012-09-30,Texas,Shamrock
+2012-09-29,Idaho,Coeur d
+2012-09-29,Maryland,California
+2012-09-28,California,Chula Vista
+2012-09-28,Louisiana,Henderson
+2012-09-28,Louisiana,Lafayette
+2012-09-27,Florida,Lauderhill
+2012-09-27,Utah,Salt Lake City
+2012-09-27,California,Santa Ana
+2012-09-26,Texas,Beaumont
+2012-09-26,Missouri,Rock Hill
+2012-09-25,New York,New York
+2012-09-25,Texas,Austin
+2012-09-24,Tennessee,Memphis
+2012-09-24,California,Hayward
+2012-09-23,Maryland,Dundalk
+2012-09-23,Washington,Seattle
+2012-09-22,Arizona,Phoenix
+2012-09-22,Wisconsin,Eau Galle
+2012-09-22,California,Roseville
+2012-09-22,Texas,Houston
+2012-09-22,Florida,Hollywood
+2012-09-21,Maryland,Baltimore
+2012-09-21,Florida,Hollywood
+2012-09-21,Alaska,Healy
+2012-09-21,Illinois,Riverdale
+2012-09-20,New York,New York
+2012-09-20,North Carolina,High Point
+2012-09-20,New Mexico,South Valley
+2012-09-19,Virginia,Altavista
+2012-09-19,California,Vista
+2012-09-19,California,Fresno
+2012-09-19,Nevada,North Las Vegas
+2012-09-18,Oregon,The Dalles
+2012-09-18,New Jersey,Burlington
+2012-09-17,California,Paramount
+2012-09-16,Nebraska,Omaha
+2012-09-15,Arizona,Tucson
+2012-09-14,North Carolina,Charlotte
+2012-09-14,Illinois,Chicago
+2012-09-14,Texas,San Antonio
+2012-09-13,Texas,Houston
+2012-09-13,Oklahoma,Pryor
+2012-09-12,Pennsylvania,Erie
+2012-09-12,Georgia,Lilburn
+2012-09-11,California,Long Beach
+2012-09-09,Georgia,Marietta
+2012-09-08,Arkansas,Alexander
+2012-09-07,New York,New York
+2012-09-07,Georgia,Cochran
+2012-09-06,Florida,Hallandale Beach
+2012-09-06,Colorado,Lakewood
+2012-09-05,Florida,Orlando
+2012-09-05,Washington,Spokane
+2012-09-05,Georgia,Atlanta
+2012-09-04,California,Walnut Creek
+2012-09-04,Texas,San Antonio
+Mexico not a state
+2012-09-03,California,Azusa
+2012-09-02,California,Vallejo
+2012-09-02,Washington,Arlington
+2012-09-01,Texas,Houston
+2012-09-01,New Jersey,Paterson
+2012-09-01,New Jersey,North Bergen
+2012-09-01,Georgia,Atlanta
+2012-09-01,California,San Diego
+processing October_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_October_2012
+UTF-8
+2012-10-31,California,San Diego
+2012-10-31,Texas,Odessa
+2012-10-30,California,Bakersfield
+2012-10-30,New York,Port Jefferson
+2012-10-29,Nevada,Las Vegas
+2012-10-29,Texas,Buchanan Dam
+2012-10-27,Arizona,Phoenix
+2012-10-26,California,Goshen
+2012-10-26,Utah,Corinne
+2012-10-25,South Carolina,Woodruff
+2012-10-25,Texas,La Joya
+2012-10-25,Texas,Keller
+2012-10-24,California,Lakeport
+2012-10-23,Minnesota,St Paul
+2012-10-21,Florida,Hialeah
+2012-10-21,California,Vallejo
+2012-10-18,California,Inglewood
+2012-10-17,Georgia,Hiram
+2012-10-17,California,Los Angeles
+2012-10-16,Iowa,Cantril
+2012-10-15,Texas,Denton
+2012-10-15,North Carolina,Thomasville
+2012-10-14,Maryland,Baltimore
+2012-10-14,Texas,San Antonio
+2012-10-13,Tennessee,Marlow
+2012-10-13,Ohio,Cincinnati
+2012-10-13,California,Oxnard
+2012-10-11,Illinois,Rockford
+Mexico not a state
+2012-10-10,California,Santa Clara
+2012-10-08,Maryland,Silver Spring
+2012-10-06,Alabama,Mobile
+2012-10-06,California,Los Angeles
+2012-10-06,Arizona,Tombstone
+2012-10-05,North Carolina,Gastonia
+2012-10-05,Arkansas,Russellville
+2012-10-05,Minnesota,Richfield
+2012-10-05,California,Hayward
+2012-10-05,Pennsylvania,Wilkes
+2012-10-05,Wisconsin,Eau Claire
+2012-10-04,Massachusetts,Taunton
+2012-10-04,Kansas,Osawatomie
+2012-10-04,New York,New York
+2012-10-02,Arizona,Naco
+2012-10-02,Florida,Miami
+2012-10-02,Alaska,Bethel
+processing November_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_November_2012
+UTF-8
+2012-11-29,Ohio,Cleveland
+2012-11-29,Oklahoma,Tulsa
+2012-11-28,Texas,Pampa
+2012-11-28,Georgia,Dunwoody
+2012-11-25,New Jersey,Leonia
+2012-11-23,Georgia,Decatur
+2012-11-22,Michigan,Detroit
+2012-11-18,Iowa,Waterloo
+2012-11-18,Oklahoma,Moore
+2012-11-15,Georgia,Cartersville
+2012-11-14,Illinois,Chicago
+2012-11-14,California,Compton
+2012-11-14,South Carolina,Bluffton
+2012-11-14,Pennsylvania,Philadelphia
+2012-11-12,Massachusetts,Marlborough
+2012-11-12,Pennsylvania,Philadelphia
+2012-11-11,Michigan,Southfield
+2012-11-11,Pennsylvania,Philadelphia
+2012-11-11,Indiana,South Side
+2012-11-11,Utah,Ogden
+2012-11-10,California,Compton
+2012-11-10,Colorado,Denver
+2012-11-10,California,Palm Springs
+2012-11-09,Colorado,Denver
+2012-11-09,Wisconsin,Madison
+2012-11-09,California,Los Angeles
+2012-11-08,Illinois,Maywood
+2012-11-08,Kentucky,Flemingsburg
+2012-11-07,Nevada,Henderson
+2012-11-06,Florida,St. Petersburg
+2012-11-04,Texas,Houston
+2012-11-04,California,Fremont
+2012-11-03,Florida,Port St. Lucie
+2012-11-03,Texas,Snyder
+2012-11-02,Michigan,Battle Creek
+2012-11-02,Utah,West Valley City
+2012-11-02,Virginia,Stafford
+2012-11-02,Nevada,Las Vegas
+2012-11-02,Washington,Littlerock
+2012-11-02,Florida,Pompano Beach
+processing December_2012
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_December_2012
+UTF-8
+2012-12-31,Oregon,Hermiston
+2012-12-30,Texas,Hearne
+2012-12-30,Texas,Houston
+2012-12-28,West Virginia,Martinsburg
+2012-12-27,California,Walnut Creek
+2012-12-27,Tennessee,Memphis
+2012-12-25,Colorado,Pueblo
+2012-12-23,Texas,Tahoka
+2012-12-21,Georgia,Macon
+2012-12-21,Colorado,Security
+2012-12-20,Maryland,Elkton
+2012-12-19,Virginia,Dumfries
+2012-12-17,Ohio,Columbus
+2012-12-16,Texas,San Antonio
+2012-12-15,Alabama,Birmingham
+2012-12-15,Illinois,Chicago
+2012-12-15,Alabama,Coldwater
+2012-12-14,Texas,Fort Hood
+2012-12-11,Florida,Jacksonville
+2012-12-11,Louisiana,Breaux Bridge
+2012-12-10,Texas,Corpus Christi
+2012-12-08,California,San Bernardino
+2012-12-07,Kentucky,Magnolia
+2012-12-06,Georgia,Jonesboro
+2012-12-06,Texas,Dallas
+2012-12-06,Texas,Houston
+2012-12-06,California,Hollywood
+2012-12-04,Iowa,Cedar Rapids
+2012-12-04,Indiana,Evansville
+2012-12-04,Georgia,Buford
+2012-12-04,West Virginia,Elkins
+2012-12-03,Oklahoma,Midwest City
+2012-12-03,Idaho,Meridian
+2012-12-02,Arizona,Sasabe
+2012-12-01,Ohio,Burnswick
+processing January_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_January_2013
+UTF-8
+2013-01-30,Colorado,Denver
+2013-01-29,Texas,Fort Worth
+2013-01-28,Pennsylvania,Harrisburg
+2013-01-28,Missouri,Craig
+2013-01-28,Florida,Jacksonville
+2013-01-27,Washington,Seattle
+2013-01-27,Illinois,Homewood
+2013-01-25,Washington,Vancouver
+2013-01-25,Maryland,Baltimore
+2013-01-25,Arizona,Tucson
+2013-01-24,Michigan,Kalamazoo
+2013-01-24,Texas,Grand Prairie
+2013-01-22,Nevada,Boulder City
+2013-01-22,Colorado,Woodland
+2013-01-21,Louisiana,Addis
+2013-01-18,Alabama,Oxford
+2013-01-18,Washington,Vancouver
+2013-01-17,Michigan,Mount Pleasant
+2013-01-17,California,San Diego
+2013-01-16,Florida,Orlando
+2013-01-16,Arizona,Buckeye
+2013-01-15,Missouri,Kansas City
+2013-01-15,Hawaii,Honolulu
+2013-01-14,New Jersey,East Orange
+2013-01-14,South Carolina,Greenville
+2013-01-14,Tennessee,Memphis
+2013-01-12,California,San Diego
+2013-01-12,Maryland,Frederick
+2013-01-11,Georgia,Savannah
+2013-01-11,California,Santa Ana
+2013-01-10,West Virginia,Logan
+2013-01-10,Oklahoma,Cushing
+2013-01-09,Utah,Salt Lake City
+2013-01-09,Florida,Tampa
+2013-01-08,Florida,Palm Beach
+2013-01-07,Arizona,Phoenix
+2013-01-07,California,Fresno
+2013-01-07,Pennsylvania,Coolbaugh Township
+2013-01-06,North Carolina,Charlotte
+2013-01-05,Colorado,Aurora
+2012-01-04,Pennsylvania,Philadelphia
+2013-01-04,Pennsylvania,Mt. Pleasant
+2013-01-01,New Mexico,Farmington
+2013-01-01,Texas,Tyler
+2013-01-01,Colorado,Pueblo
+processing February_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_February_2013
+UTF-8
+2013-02-28,California,Guerneville
+2013-02-26,South Carolina,Columbia
+2013-02-26,Washington,Seattle
+2013-02-26,California,Santa Cruz
+2013-02-25,California,Riverside
+2013-02-24,Washington,Spokane
+2013-02-23,Nevada,Reno
+2013-02-22,Missouri,Springfield
+2013-02-21,California,Long Beach
+2013-02-21,Pennsylvania,Conewago
+2013-02-19,Alaska,Anchorage
+2013-02-18,Virginia,Alexandria
+2013-02-15,California,Monterey Park
+2013-02-19,Florida,Jacksonville
+2013-02-19,California,Berkeley
+2013-02-08,Nevada,Las Vegas
+2013-02-05,Washington,Spokane
+2013-02-04,Alabama,Midland City
+2013-02-03,Texas,Harlingen
+2013-02-03,Texas,Copperas Cove
+processing March_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_March_2013
+UTF-8
+2013-03-30,California,Oakland
+2013-03-26,Ohio,West Lafayette
+2013-03-22,Washington,Seattle
+2013-03-19,Alabama,Deatsville
+2013-03-18,California,San Jose
+2013-03-17,Ohio,Solon
+2013-03-13,West Virginia,Martinsburg
+2013-03-12,Connecticut,Willimantic
+2013-03-10,Tennessee,Memphis
+2013-03-10,Iowa,North Liberty
+2013-03-10,Georgia,Warner Robins
+2013-03-10,Florida,St. Petersburg
+2013-03-10,Ohio,Middlefield
+2013-03-10,Texas,Dallas
+2013-03-09,New York,Brooklyn
+2013-03-09,Florida,Navarre
+2013-03-08,Texas,El Paso
+2013-03-07,Florida,Jacksonville
+2013-03-06,Washington,Sunnyside
+2013-03-06,California,Livingston
+2013-03-06,Georgia,Columbus
+2013-03-05,New Mexico,Albuquerque
+2013-03-04,Oregon,Portland
+2013-03-04,Texas,San Antonio
+2013-03-04,North Carolina,Concord
+2013-03-03,California,Hayward
+2013-03-02,Washington,Kelso
+2013-03-02,California,Union City
+2013-03-02,California,San Jose
+2013-03-02,California,San Francisco
+2013-03-01,Oklahoma,Oklahoma City
+2013-03-01,Texas,Austin
+2013-03-01,Texas,El Paso
+processing April_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_April_2013
+UTF-8
+2013-04-30,New Mexico,Tularosa
+2013-04-30,Florida,Jacksonville
+2013-04-29,Indiana,Vincennes
+2013-04-29,Pennsylvania,Philadelphia
+2013-04-24,Missouri,St. Louis
+2013-04-24,Illinois,Manchester
+2013-04-24,Arizona,Tucson
+2013-04-22,Indiana,Calumet City
+2013-04-21,Washington,Federal Way
+2013-04-19,Massachusetts,Watertown
+2013-04-09,Oklahoma,Oklahoma City
+2013-04-09,Oklahoma,Oklahoma City
+2013-04-04,California,Los Angeles
+processing May_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_May_2013
+UTF-8
+2013-05-30,California,Santa Ana
+2013-05-29,Pennsylvania,Philadelphia
+2013-05-29,Montana,Helena
+2013-05-29,California,Oakland
+2013-05-29,Virginia,Sterling
+Washington D.C. not a state
+2013-05-28,Texas,Fort Worth
+2013-05-26,Colorado,Salida
+2013-05-26,New York,New Rochelle
+2013-05-25,California,Sacramento
+2013-05-25,Pennsylvania,Philadelphia
+2013-05-25,South Carolina,Columbia
+2013-05-25,Utah,Washington Terrace
+2013-05-24,California,San Diego
+2013-05-24,Connecticut,Ridgefield
+2013-05-24,Montana,Worden
+2013-05-24,Washington,Fife
+2013-05-22,Florida,Orlando
+2013-05-19,Wyoming,Evanston
+2013-05-18,California,Los Angeles
+2013-05-17,New York,Mineola
+2013-05-17,Wisconsin,Madison
+2013-05-16,Washington,Nine Mile Falls
+2013-05-16,Texas,Fort Worth
+2013-05-14,Colorado,Denver
+2013-05-11,California,Cudahy
+2013-05-10,Minnesota,Minneapolis
+2013-05-10,Minnesota,Minneapolis
+2013-05-09,Pennsylvania,Philadelphia
+2013-05-08,California,Bakersfield
+2013-05-06,California,Suisun City
+processing June_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_June_2013
+UTF-8
+2013-06-19,Oklahoma,Oklahoma City
+2013-06-18,Washington,Tillicum
+2013-06-18,North Carolina,Charlotte
+2013-06-17,Oklahoma,Midwest City
+2013-06-11,Minnesota,Duluth
+2013-06-08,California,Windsor
+2013-06-08,Arizona,Tucson
+2013-06-07,Georgia,Acworth
+2013-06-07,California,Santa Monica
+2013-06-07,Nevada,Reno
+2013-06-05,California,Escondido
+2013-06-04,California,Mad River
+2013-06-04,Texas,Highland Park
+2013-06-03,Missouri,Kansas City
+2013-06-03,California,Huron
+2013-06-02,California,Gardena
+2013-06-01,California,San Diego
+2013-06-01,Arizona,Phoenix
+2013-06-01,Washington,Spokane
+2013-06-01,Texas,Corsicana
+processing July_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_July_2013
+UTF-8
+2013-07-31,Texas,Conroe
+2013-07-30,California,Santa Ana
+2013-07-28,Illinois,Chicago
+2013-07-27,Florida,Hialeah
+2013-07-27,North Carolina,Durham
+2013-07-27,Illinois,Park Forest
+2013-07-27,Pennsylvania,Wernersville
+2013-07-26,Texas,Austin
+2013-07-24,Arizona,Tempe
+2013-07-21,Maryland,Baltimore
+2013-07-21,New York,Brooklyn
+2013-07-18,California,Vacaville
+2013-07-11,Oklahoma,Oklahoma City
+2013-07-09,Florida,Jacksonville
+2013-07-08,California,Oakland
+2013-07-05,Washington,Seattle
+processing August_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_August_2013
+UTF-8
+2013-08-31,California,Union City
+2013-08-29,Virginia,Springfield
+2013-08-29,Oregon,Dalles
+2013-08-27,California,Antioch
+2013-08-24,Minnesota,Brooklyn Center
+2013-08-20,Louisiana,Many
+2013-08-17,Wisconsin,Madison
+2013-08-18,Maryland,Forest Hill
+2013-08-15,Kentucky,Fleming County
+2013-08-15,New Jersey,Trenton
+2013-08-14,California,Hayward
+2013-08-14,New Hampshire,Weare
+2013-08-13,Maryland,Baltimore
+2013-08-13,Louisiana,St. John
+2013-08-12,Pennsylvania,Manheim
+2013-08-12,Washington,Seattle
+2013-08-11,Illinois,Poplar Grove
+2013-08-11,Massachusetts,Springfield
+2013-08-10,Idaho,Ada County
+2013-08-09,California,Sunnyvale
+2013-08-08,Missouri,Kansas City
+2013-08-07,Massachusetts,Boston
+2013-08-06,Florida,Miami Beach
+2013-08-06,New Mexico,Carlsbad
+2013-08-05,Texas,Houston
+2013-08-04,Arizona,Mesa
+2013-08-04,New York,New York City
+2013-08-03,California,Huntington Beach
+2013-08-02,Oklahoma,Warr Acres
+processing September_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_September_2013
+UTF-8
+2013-09-30,New Hampshire,Manchester
+2013-09-29,North Carolina,Asheville
+2013-09-29,Utah,Grantsville
+2013-09-28,Maryland,Havre de Grace
+2013-09-26,California,Long Beach
+2013-09-26,Indiana,Plainfield
+2013-09-26,Texas,Dallas
+2013-09-26,California,Long Beach
+2013-09-23,North Carolina,Durham
+2013-09-23,Florida,St. Petersburg
+2013-09-23,Massachusetts,Brockton
+2013-09-23,Missouri,St. Louis
+2013-09-22,Florida,Port Orange
+2013-09-22,California,Chico
+2013-09-21,California,Culver City
+2013-09-21,Colorado,Denver
+2013-09-21,Indiana,Indianapolis
+2013-09-17,North Carolina,Durham
+2013-09-17,Arkansas,Judsonia
+2013-09-16,California,Bakersfield
+2013-09-16,California,Bakersfield
+D.C. not a state
+2013-09-14,North Carolina,Charlotte
+2013-09-14,Arizona,Avondale
+2013-09-14,California,Riverside
+2013-09-10,Maryland,Annapolis
+2013-09-07,California,Simi Valley
+2013-09-07,Florida,St. Petersburg
+2013-09-07,Illinois,Chicago
+2013-09-07,Arkansas,Pine Bluff
+2013-09-07,California,Port Hueneme
+2013-09-06,Florida,Tampa
+2013-09-05,Georgia,College Park
+2013-09-05,Massachusetts,Lynn
+2013-09-05,Alabama,Mobile
+2013-09-04,Maryland,Baltimore
+2013-09-04,California,Sunnyvale
+2013-09-02,Pennsylvania,St. Thomas
+2013-09-02,Florida,St. Petersburg
+2013-09-01,California,Santa Barbara
+processing October_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_October_2013
+UTF-8
+2013-10-31,Georgia,Taylor County
+2013-10-28,Georgia,Statesboro
+2013-10-28,Texas,Duncanville
+2013-10-27,Florida,Jacksonville
+2013-10-27,Tennessee,Drummonds
+2013-10-26,Virginia,Pearisburg
+2013-10-26,Arizona,Yuma
+2013-10-26,North Carolina,Wilmington
+2013-10-25,Florida,Islamorada
+2013-10-25,Oregon,Hillsboro
+2013-10-25,California,Ridgecrest
+2013-10-25,Missouri,St. Louis
+2013-10-24,Florida,St. Petersburg
+2013-10-24,California,Weed
+2013-10-24,Illinois,Chicago
+Houston not a state
+2013-10-24,Minnesota,Minnetonka
+2013-10-23,Connecticut,Milford
+2013-10-22,California,Santa Rosa
+2013-10-22,California,San Bruno
+2013-10-21,California,Union City
+2013-10-21,Georgia,Leesburg
+2013-10-21,Mississippi,Coffeeville
+2013-10-20,Florida,Boca Raton
+2013-10-19,Ohio,Warren
+2013-10-17,Florida,St. Petersburg
+2013-10-09,West Virginia,Wheeling
+2013-10-08,Georgia,Waycross
+D.C. not a state
+processing November_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_November_2013
+UTF-8
+2013-11-29,California,Azusa
+2013-11-29,Washington,Seattle
+2013-11-29,Texas,San Marcos
+2013-11-28,California,San Jose
+2013-11-27,Oklahoma,Oklahoma City
+2013-11-24,Colorado,Boulder
+D.C. not a state
+2013-11-22,Ohio,Columbus
+2013-11-19,North Carolina,Durham
+2013-11-19,Arizona,Prescott
+2013-11-19,California,Guerneville
+2013-11-19,New York,Middletown
+2013-11-19,Virginia,Lynchburg
+2013-11-18,Florida,Boynton Beach
+2013-11-18,California,Long Beach
+2013-11-18,Maryland,Germantown
+2013-11-18,New York,New York City
+2013-11-18,New York,Berlin
+2013-11-17,Ohio,Columbus
+2013-11-17,California,Los Angeles
+2013-11-17,Florida,Titusville
+2013-11-15,Minnesota,Orono
+2013-11-15,California,Santa Clara County
+2013-11-11,Wisconsin,Milwaukee
+2013-11-11,Ohio,Westerville
+2013-11-10,California,Long Beach
+2013-11-08,Louisiana,New Orleans
+2013-11-07,Vermont,Burlington
+2013-11-07,New Mexico,Santa Fe
+2013-11-06,New Jersey,Newark
+2013-11-05,California,Fairfield
+2013-11-04,Iowa,Ames
+2013-11-03,Oregon,Oregon City
+processing December_2013
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_December_2013
+UTF-8
+2013-12-28,Arizona,Phoenix
+2013-12-27,Oklahoma,Oklahoma City
+2013-12-21,Oklahoma,Clinton
+2013-12-12,Washington,Wenatchee
+2013-12-07,Nevada,Las Vegas
+2013-12-06,Texas,San Antonio
+processing January_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_January_2014
+UTF-8
+2014-01-31,California,Vista
+2014-01-31,Nevada,Laughlin
+2014-01-30,Utah,Santaquin
+2014-01-28,North Carolina,Wilmington
+2014-01-25,California,Lodi
+Indianapolis not a state
+2014-01-18,Ohio,Fairfield
+2014-01-16,Utah,Spanish Fork
+2014-01-16,Texas,Houston
+2014-01-05,Washington,Yakima
+2014-01-05,North Carolina,Boiling Spring Lakes
+2014-01-04,New Jersey,Paterson
+2014-01-04,Arizona,Sierra Vista
+2014-01-04,Washington,Selah
+2014-01-03,Oklahoma,Oklahoma City
+2014-01-02,Colorado,Thornton
+2014-01-03,Ohio,Columbus
+2014-01-02,Texas,Dallas
+2014-01-01,Oklahoma,Chelsea
+2014-01-01,Michigan,Redford
+processing February_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_February_2014
+UTF-8
+2014-02-06,Arizona,Glendale
+2014-02-04,Maryland,Centreville
+2014-02-10,California,Tustin
+2014-02-07,Minnesota,Eden Prairie
+2014-02-07,Minnesota,Eden Prairie
+2014-02-09,South Carolina,North Augusta
+2014-02-15,Ohio,Hamilton
+2014-02-14,Oklahoma,Moore
+2014-02-14,Nevada,Las Vegas
+2014-02-14,Georgia,Euharlee
+2014-02-22,Arizona,Tucson
+2014-02-27,Missouri,St. Louis County
+2014-02-28,Texas,San Antonio
+processing March_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_March_2014
+UTF-8
+2014-03-26,Washington,Spokane
+2014-03-25,New Mexico,Albuquerque
+2014-03-24,California,Hollywood Hills
+2014-03-22,California,San Francisco
+2014-03-20,California,Salinas
+2014-03-19,California,Pacifica
+2014-03-19,California,Cleone
+2014-03-06,Montana,Hamilton
+2014-03-12,Oregon,Portland
+2014-03-11,New Mexico,Albuquerque
+2014-03-11,Kentucky,Louisville
+2014-03-09,Illinois,Sleepy Hollow
+2014-03-08,California,Sacramento
+2014-03-02,California,Citrus Heights
+2014-03-02,California,Antelope
+processing April_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_April_2014
+UTF-8
+2014-04-04,Vermont,Brattleboro
+2014-04-08,Nevada,Las Vegas
+2014-04-10,California,Clovis
+2014-04-10,California,Los Angeles
+2014-04-12,Washington,Yakima
+2014-04-13,North Carolina,Hampstead
+2014-04-13,Arizona,Sierra Vista
+2014-04-26,Kentucky,Boone County
+2014-04-30,Wisconsin,Milwaukee
+processing May_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_May_2014
+UTF-8
+2014-05-31,Kansas,Dexter
+2014-05-31,California,Turlock
+2014-05-31,New Jersey,Patterson
+2014-05-31,North Carolina,Raeford
+2014-05-30,Nevada,Las Vegas
+2014-05-30,Virginia,Norfolk
+2014-05-30,Maryland,Suitland
+2014-05-30,California,Woodland
+2014-05-29,Tennessee,Bristol
+2014-05-29,Louisiana,New Orleans
+2014-05-29,California,Newport Beach
+2014-05-28,Virginia,Portsmouth
+2014-05-27,Florida,Tampa
+2014-05-25,Missouri,Kansas City
+2014-05-21,Arizona,Tucson
+2014-05-20,California,Salinas
+2014-05-09,Oregon,Salem
+2014-05-09,California,Salinas
+2014-05-04,California,Dublin
+2014-05-02,Wisconsin,Madison
+processing June_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_June_2014
+UTF-8
+2014-6-27,New York,Bay Shore
+2014-06-26,Texas,Sweetwater
+2014-06-26,Texas,Dallas
+2014-06-25,Nevada,Las Vegas
+2014-06-25,California,Los Angeles
+2014-06-24,California,Compton
+2014-06-22,Idaho,Post Falls
+2014-06-21,Michigan,Sterling Heights
+2014-06-21,Kentucky,Madisonville
+2014-06-21,California,Sacramento
+2014-06-21,California,San Bernardino
+2014-06-21,South Carolina,Charleston
+2014-06-20,Nebraska,Columbus
+2014-06-20,California,Redding
+2014-06-20,Georgia,Atlanta
+2014-06-19,North Carolina,Hope Mills
+2014-06-19,Texas,San Antonio
+2014-06-19,Washington,Port Orchard
+2014-06-19,South Carolina,Horry County
+2014-06-19,Florida,Coral Gables
+2014-06-16,North Carolina,Charlotte
+2014-06-15,Florida,Altamonte Springs
+2014-06-14,Texas,Oak Cliff
+2014-06-14,Colorado,Greeley
+2014-06-13,Mississippi,Gulfport
+2014-06-13,Nevada,Reno
+2014-06-12,West Virginia,Princeton
+2014-06-12,Louisiana,Bossier
+2014-06-10,Georgia,Chamblee
+2014-06-09,Oklahoma,Oklahoma City
+2014-06-09,Nevada,Las Vegas
+2014-06-09,New Mexico,Espanola
+2014-06-07,Maryland,Glen Burnie
+2014-06-06,Virginia,Norfolk
+2014-06-06,Idaho,Coeur d
+2014-06-05,California,Sunnyvale
+2014-06-04,South Dakota,Rapid City
+2014-06-02,North Carolina,Hickory
+2014-06-02,South Carolina,Aiken
+2014-06-01,Kansas,Fredonia
+processing July_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_July_2014
+UTF-8
+2014-07-30,Hawaii,Waikiki
+2014-07-29,Illinois,Pana
+2014-07-28,New York,New York
+2014-07-28,Illinois,Chicago
+2014-07-27,West Virginia,Huntington
+2014-07-25,Utah,Millcreek
+2014-07-25,California,Los Angeles
+2014-07-24,Georgia,Henry County
+2014-07-22,Texas,La Joya
+2014-07-20,Washington,Kent
+2014-07-18,Nevada,North Las Vegas
+2014-07-17,New York,Staten Island
+2014-07-17,California,Stockton
+2014-07-17,California,Stockton
+2014-07-17,California,Stockton
+2014-07-17,Maryland,Germantown
+2014-07-13,New Jersey,Jersey City
+2014-07-09,Illinois,Granite City
+2014-07-08,California,Hayward
+Sandpoint not a state
+2014-07-05,Illinois,Chicago
+2014-07-04,Illinois,Chicago
+2014-07-01,Washington,Seattle
+processing August_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_August_2014
+UTF-8
+2014-08-31,Mississippi,Hattiesburg
+2014-08-31,Nevada,Reno
+2014-08-31,Texas,Laredo
+2014-08-31,Kansas,Kansas City
+2014-08-30,Washington,Seattle
+2014-08-29,Florida,Orlando
+2014-08-29,Pennsylvania,Eagleville
+2014-08-29,California,Redding
+2014-08-29,Oregon,Pendleton
+2014-08-29,Arizona,Littlefield
+2014-08-29,Texas,Guadalupe County
+2014-08-28,Texas,Corpus Christi
+2014-08-28,California,Sutter County
+2014-08-28,Minnesota,Ramsey
+2014-08-28,Florida,Manatee
+2014-08-28,Minnesota,St. Paul
+2014-08-27,New Mexico,Bloomfield
+2014-08-27,Louisiana,Albany
+2014-08-27,Texas,Dallas
+2014-08-26,Nebraska,Omaha
+2014-08-26,Nebraska,Omaha
+2014-08-26,California,Lynwood
+2014-08-25,Texas,Lubbock
+2014-08-25,Colorado,Grand Junction
+2014-08-25,West Virginia,Dingess
+2014-08-25,Texas,Dallas
+2014-08-25,Oklahoma,Oklahoma City
+2014-08-24,Florida,Lake City
+2014-08-24,Oregon,Medford
+2014-08-24,Kansas,Ottawa
+2014-08-24,Arizona,Phoenix
+2014-08-24,Illinois,Chicago
+2014-08-24,Illinois,Chicago
+2014-08-23,Maryland,Ellicott City
+2014-08-23,Massachusetts,Methuen
+2014-08-23,Florida,West Palm Beach
+2014-08-22,Georgia,Atlanta
+2014-08-22,Georgia,Adairsville
+2014-08-22,California,San Bernardino
+2014-08-20,Maryland,Ellicott City
+2014-08-20,Maryland,Perry Hall
+2014-08-19,Pennsylvania,Philadelphia
+2014-08-19,Tennessee,Harriman
+2014-08-19,Illinois,Chicago
+2014-08-19,Florida,Orlando
+2014-08-19,Kansas,Haysville
+2014-08-19,Missouri,St. Louis
+2014-08-18,California,Woodland
+2014-08-18,California,Norwalk
+2014-08-18,California,Los Angeles
+2014-08-18,California,Los Angeles
+2014-08-18,Illinois,Carpentersville
+2014-08-17,Maine,Mexico
+2014-08-17,Texas,San Antonio
+2014-08-16,Tennessee,Knoxville
+2014-08-16,Maryland,Fort Washington
+2014-08-14,Iowa,Davenport
+2014-08-14,California,Victorville
+2014-08-14,Kansas,Newton
+2014-08-14,California,San Jose
+2014-08-13,Colorado,Greeley
+2014-08-13,Arizona,Phoenix
+2014-08-13,Texas,Houston
+2014-08-13,Alabama,Muscle Shoals
+2014-08-12,New York,Suffern
+2014-08-12,New York,Suffern
+2014-08-12,California,San Fernando
+2014-08-12,Michigan,Fairfield Township
+2014-08-11,New York,Palenville
+2014-08-11,New York,Palenville
+2014-08-11,New York,Palenville
+2014-08-11,California,Los Angeles
+2014-08-11,Texas,Dallas
+2014-08-11,Texas,DeKalb
+2014-08-11,Mississippi,Canton
+2014-08-10,Washington,Burien
+2014-08-11,Utah,South Salt Lake
+2014-08-10,Texas,Dallas
+2014-08-09,California,Walnut Park
+2014-08-09,Pennsylvania,Springfield Township
+2014-08-09,Missouri,Ferguson
+2014-08-09,Pennsylvania,Tamaqua
+ not a state
+2014-08-08,Michigan,Detroit
+2014-08-08,Colorado,Denver
+2014-08-07,California,Folsom
+2014-08-07,Texas,Longview
+2014-08-06,California,Bakersfield
+2014-08-06,Hawaii,Pearl City
+2014-08-06,Oklahoma,Tulsa
+2014-08-06,Texas,Houston
+2014-08-05,Ohio,Beavercreek
+2014-08-05,Ohio,Cincinnati
+2014-08-05,Virginia,Hudgins
+2014-08-04,New Mexico,Albuquerque
+2014-08-04,California,Bakersfield
+2014-08-03,Texas,Houston
+2014-08-03,Arizona,Pinetop
+2014-08-03,California,Stockton
+2014-08-03,Minnesota,St. Paul
+2014-08-03,Iowa,Fort Madison
+2014-08-03,California,Oakland
+2014-08-03,Arizona,Phoenix
+2014-08-03,California,Los Angeles
+2014-08-02,California,Los Angeles
+2014-08-02,California,Los Angeles
+2014-08-01,Georgia,Atlanta
+2014-08-01,New Jersey,Winslow Township
+processing September_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_September_2014
+UTF-8
+2014-09-30,Pennsylvania,Philadelphia
+2014-09-30,Wyoming,Casper
+2014-09-30,Georgia,Athens
+2014-09-30,Florida,Sunrise
+2014-09-29,New York,Brooklyn
+2014-09-29,New York,Brooklyn
+2014-09-28,California,city
+2014-09-28,Texas,Baytown
+2014-09-27,Missouri,Kansas City
+2014-09-27,Florida,Homestead
+2014-09-27,Maine,Chester
+2014-09-26,Tennessee,Madison County
+2014-09-26,Texas,Paris
+2014-09-26,Ohio,Warren
+2014-09-25,California,San Francisco
+2014-09-24,Georgia,East Dublin
+2014-09-24,California,Los Angeles
+2014-09-24,Louisiana,DeRidder
+2014-09-24,Louisiana,New Orleans
+2014-09-24,Washington,Pasco
+2014-09-23,South Carolina,Goose Creek
+2014-09-23,Indiana,Elkhart
+2014-09-23,Texas,University Park
+2014-09-23,Louisiana,New Orleans
+2014-09-23,Kentucky,Louisville
+2014-09-22,Iowa,Davenport
+2014-09-22,California,Fresno
+2014-09-21,Ohio,Mansfield
+2014-09-21,New York,Ballston Spa
+2014-09-21,Iowa,Des Moines
+2014-09-20,Florida,Homosassa
+2014-09-20,Florida,Daytona Beach
+2014-09-19,California,Anaheim
+2014-09-19,Georgia,Cedartown
+2014-09-19,Texas,San Angelo
+2014-09-19,New Mexico,Las Cruces
+2014-09-18,Tennessee,Grainger
+2014-09-18,Georgia,Savannah
+2014-09-18,Missouri,Jennings
+2014-09-17,California,Eureka
+2014-09-16,Mississippi,Pelahatchie
+2014-09-16,California,Fresno
+2014-09-16,New Jersey,Rutherford
+2014-09-16,Washington,Lacey
+2014-09-15,Texas,Dallas
+2014-09-15,Alaska,Wasilla
+2014-09-15,Ohio,Cincinnati
+2014-09-14,Louisiana,New Orleans
+2014-09-14,California,Richmond
+2014-09-13,Tennessee,Knoxville
+2014-09-13,Kentucky,Lexington
+2014-09-13,Illinois,Wheeling
+2014-09-13,Alabama,Birmingham
+2014-09-12,Tennessee,Knoxville
+2014-09-12,Texas,Abilene
+2014-09-11,Texas,Houston
+2014-09-11,Texas,Duval County
+2014-09-11,Utah,St. George
+2014-09-10,Utah,Saratoga Springs
+2014-09-09,Pennsylvania,Radnor
+2014-09-09,New Jersey,Atlantic City
+2014-09-09,Utah,Ogden
+2014-09-08,South Carolina,Charleston County
+2014-09-08,California,Los Angeles
+2014-09-08,Texas,San Patricio County
+2014-09-08,Texas,Austin
+2014-09-08,Louisiana,Pineville
+2014-09-07,Florida,Wilton Manors
+2014-09-06,Hawaii,Honolulu
+2014-09-05,Tennessee,Dayton
+2014-09-05,New York,New York
+2014-09-03,Nevada,Reno
+2014-09-03,Oklahoma,Oklahoma City
+2014-09-03,Arizona,Tucson
+2014-09-02,Ohio,Cleveland
+2014-09-02,Arizona,Phoenix
+2014-09-02,Oklahoma,Tulsa
+2014-09-01,Oklahoma,Henryetta
+processing October_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_October_2014
+UTF-8
+2014-10-31,California,Salinas
+2014-10-31,Arkansas,Leslie
+2014-10-29,New York,Au Sable
+2014-10-29,California,Suisun City
+2014-10-29,Louisiana,Natchitoches
+2014-10-28,Kentucky,Louisville
+2014-10-28,Arizona,Phoenix
+2014-10-28,New Mexico,Las Cruces
+2014-10-26,Louisiana,Bayou Pigeon
+2014-10-26,Kansas,Wichita
+2014-10-25,Illinois,Maywood
+2014-10-25,California,Huntington Beach
+2014-10-23,Texas,Brownsville
+2014-10-23,Massachusetts,Dartmouth
+2014-10-23,Arizona,Avondale
+2014-10-23,New York,Jamaica
+2014-10-21,Utah,Roy
+2014-10-20,Virginia,Colonial Heights
+2014-10-20,Illinois,Chicago
+2014-10-20,Texas,Bellmead
+2014-10-20,Texas,El Paso
+2014-10-18,Mississippi,Southaven
+2014-10-18,Indiana,Indianapolis
+2014-10-17,Alabama,Warrior
+2014-10-16,Virginia,Staunton
+2014-10-14,Connecticut,Norwalk
+2014-10-13,Texas,New Braunfels
+2014-10-13,Oklahoma,Spiro
+2014-10-13,Texas,Pleasanton
+2014-10-12,Tennessee,Bartlett
+2014-10-12,Tennessee,Bartlett
+2014-10-12,Colorado,Rocky Ford
+2014-10-12,Maine,Ludlow
+2014-10-11,Ohio,Columbus
+2014-10-11,Ohio,Columbus
+2014-10-10,Arizona,Tucson
+2014-10-09,Minnesota,Minneapolis
+2014-10-08,New Jersey,Paramus
+2014-10-08,Oklahoma,Tulsa
+2014-10-08,Missouri,Kansas City
+2014-10-08,Missouri,St. Louis
+2014-10-08,Alabama,Huntsville
+2014-10-07,Nevada,North Las Vegas
+2014-10-07,California,San Francisco
+2014-10-07,Texas,Houston
+2014-10-04,California,Los Angeles
+2014-10-03,Connecticut,New London
+2014-10-03,California,San Bernardino
+2014-10-03,Georgia,DeKalb
+2014-10-03,New York,Brooklyn
+2014-10-03,Arizona,Flagstaff
+2014-10-02,Virginia,Christiansburg
+2014-10-01,Texas,Houston
+2014-10-01,Kentucky,Louisville
+processing November_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_November_2014
+UTF-8
+2014-11-30,California,Carson
+2014-11-30,Nevada,Elko
+2014-11-28,Texas,Austin
+2014-11-28,New Mexico,Flora Vista
+2014-11-28,Michigan,Dearborn
+2014-11-28,Mississippi,Pearl
+2014-11-26,Missouri,Versailles
+2014-11-26,California,Point Arena
+2014-11-26,Texas,Lewisville
+2014-11-25,Washington,Vancouver
+2014-11-25,Colorado,Pueblo
+2014-11-25,Tennessee,Cleveland
+2014-11-25,Texas,Balch Springs
+2014-11-24,California,West Covina
+2014-11-24,Florida,Jacksonville
+2014-11-23,Arizona,Lake Havasu City
+2014-11-23,Florida,Bradenton
+2014-11-22,Florida,Eustis
+2014-11-22,Utah,South Jordan
+2014-11-22,California,Sonora
+2014-11-22,California,Seaside
+2014-11-22,Florida,Tallahassee
+2014-11-22,Ohio,Cleveland
+2014-11-21,New York,New York City
+2014-11-21,Missouri,Clarkton
+2014-11-21,California,Long Beach
+2014-11-20,Oregon,Beaverton
+2014-11-20,Louisiana,Shreveport
+2014-11-20,Florida,Tallahassee
+2014-11-19,Tennessee,Memphis
+2014-11-18,California,Riverside
+2014-11-18,Florida,Dunedin
+2014-11-18,North Carolina,Fayetteville
+2014-11-17,New Jersey,Phillipsburg
+2014-11-16,Kentucky,Deming
+2014-11-16,Oregon,Klamath Falls
+2014-11-16,Washington,Deming
+2014-11-16,Michigan,Rockford
+2014-11-16,Florida,Inverness
+2014-11-16,Ohio,Dayton
+2014-11-16,California,Los Angeles
+2014-11-16,California,Los Angeles
+2014-11-15,Oregon,McMinnville
+2014-11-14,California,Chula Vista
+2014-11-14,Wisconsin,Lafayette
+2014-11-14,Delaware,Claymont
+2014-11-14,Wisconsin,Boyceville
+2014-11-13,Ohio,Cleveland
+2014-11-13,Ohio,Butler Township
+2014-11-13,Tennessee,South Knox
+2014-11-13,California,San Bernardino
+2014-11-13,New Jersey,Trenton
+2014-11-13,California,Bakersfield
+2014-11-12,California,Concord
+2014-11-11,California,Perris
+2014-11-11,Alabama,Jacksonville
+2014-11-11,Florida,Tampa Bay
+2014-11-11,California,Menlo Park
+2014-11-09,Texas,Irving
+2014-11-09,California,Los Angeles
+2014-11-09,California,Lucerne
+2014-11-09,Michigan,Ann Arbor
+2014-11-09,Colorado,Denver
+2014-11-09,California,Los Angeles
+2014-11-09,Arizona,Phoenix
+2014-11-08,New Jersey,Manchester
+2014-11-08,Kansas,Kansas City
+2014-11-08,Texas,Sansom Park
+2014-11-08,Michigan,Westland
+2014-11-08,Oklahoma,Oklahoma City
+2014-11-08,South Dakota,Mitchell
+2014-11-08,California,Hemet
+2014-11-07,California,Palmdale
+2014-11-06,Tennessee,Jackson
+2014-11-06,Idaho,Jerome
+2014-11-05,Nevada,Reno
+2014-11-05,Alabama,Hartselle
+2014-11-05,Washington,Yakima
+2014-11-04,Ohio,Kitts Hill
+2014-11-04,Illinois,Chicago
+2014-11-03,Florida,Miami
+2014-11-03,New York,Queens
+2014-11-03,Alabama,Blountsville
+2014-11-03,Ohio,Marietta
+2014-11-03,Ohio,Akron
+2014-11-03,Illinois,Highland Park
+2014-11-02,Missouri,El Dorado Springs
+2014-11-02,Minnesota,Maplewood
+2014-11-02,California,Indio
+2014-11-01,California,Long Beach
+2014-11-01,California,Garden Grove
+2014-11-01,California,Visalia
+2014-11-01,Arizona,Tucson
+2014-11-01,Nevada,North Las Vegas
+processing December_2014
+200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_December_2014
+UTF-8
+2014-12-01,South Carolina,Anderson County
+list of unrepresented states: North Dakota
