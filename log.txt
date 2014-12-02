@@ -1337,6 +1337,7 @@ UTF-8
 2014-03-19,California,Pacifica
 2014-03-19,California,Cleone
 2014-03-06,Montana,Hamilton
+D.C. not a state
 2014-03-12,Oregon,Portland
 2014-03-11,New Mexico,Albuquerque
 2014-03-11,Kentucky,Louisville
@@ -1798,4 +1799,6 @@ processing December_2014
 200: http://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States,_December_2014
 UTF-8
 2014-12-01,South Carolina,Anderson County
+2014-12-01,Texas,Midland
+2014-12-01,Oklahoma,Oklahoma City
 list of unrepresented states: North Dakota
